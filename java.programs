@@ -1,0 +1,12 @@
+java .public {
+     void { 
+     string adress;
+     string colour;
+     string name ;{
+     //void close door( )
+     
+     
+     }
+
+   }}
+
