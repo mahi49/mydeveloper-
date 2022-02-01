@@ -5,3 +5,4 @@ contact.Description = ‘Contact updated successfully by ‘+ userInfo.getUserNa
 }
 // No Need to write DML statement, trigger. New will be take care.
 }
+it is edited sales force code 
